@@ -3,7 +3,7 @@
 ## 📋 Sobre:
 ### Estou estudado com foco em Java neste momento. 
 
-## 📚 Currículo
+## 📚 Formação 
 <h4><p> - Curso técnico em informática - EEEP Dona Creusa Do Carmo Rocha, Fortaleza (Finalizando)
 <p> - Introdução à programação Orientada a Objetos - POO (Fundação Bradesco)
 <p> - Implementando Banco de Dados(Fundação Bradesco)    
