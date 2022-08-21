@@ -22,5 +22,5 @@
 
   <p><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo901&layout=compact&langs_count=7&theme=tokyonight"/></p> 
   
- ![Snake animation](https://github.com/Paulo901/Paulo901/blob/output/github-contribution-grid-snake.svg)
+
  
