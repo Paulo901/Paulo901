@@ -1,7 +1,10 @@
 # OI! PAULO AQUI
 
 ## 📋 Sobre:
-### Estou estudado com foco em Java neste momento. 
+### Estou estudado com foco em GOLang neste momento. 
+
+## 💡Experiência
+ * Estagiário na empresa FixPay como desenvolvedor de software
 
 ## 📚 Formação 
 <h4><p> - Curso técnico em informática - EEEP Dona Creusa Do Carmo Rocha, Fortaleza (Finalizando)
