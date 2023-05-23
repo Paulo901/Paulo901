@@ -7,9 +7,10 @@
  * Estagiário na empresa FixPay como desenvolvedor de software
 
 ## 📚 Formação 
+<p><h4> - Curso de Análise e Desenvolvimento de Sistemas - UNOPAR (semestre 1)
 <p><h4> - Curso técnico em informática - EEEP Dona Creusa Do Carmo Rocha, Fortaleza (Finalizando)</h4> 
-<p><h4>  - Introdução à programação Orientada a Objetos - POO (Fundação Bradesco)</h4> 
-<p><h4>  - Implementando Banco de Dados(Fundação Bradesco)</h4> 
+<p><h4> - Introdução à programação Orientada a Objetos - POO (Fundação Bradesco)</h4> 
+<p><h4> - Implementando Banco de Dados(Fundação Bradesco)</h4> 
 <p><h4> - Ling. de Programação Java - Básico(Fundação Bradesco)</h4></p>    
     
 ## 🗨 Contatos
